@@ -18,7 +18,7 @@ git checkout [brancs_name]
 
 ## Commit
 
-		commit local code
+### commit local code
 
 ```bash
 cd [code_directory]
