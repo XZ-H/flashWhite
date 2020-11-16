@@ -2,11 +2,11 @@
 
 ## Branch
 
-- vue-test1:   A vue demo about blog, including adding blogs and searching blogs 
+- vue-front:   Front-end code,about blogs management.
 
-- flask-demo:   A large visual screen using flask framework 
+- springboot-back:   Back-end code.
 
-- vue-test2:   A large visual screen using vue framework 
+- springboot2vue:   Intergrating the front end with the back end
 
 ## Clone
 
