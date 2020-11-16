@@ -35,3 +35,15 @@ git commit -m [commit_infomation]
 
 git push --set-upstream origin [branch_name]
 ```
+
+### update commit message
+```bash
+cd [code_directory]
+
+git commit --amend
+
+//update your message directly
+//then,save and exit
+
+git push -f
+```
